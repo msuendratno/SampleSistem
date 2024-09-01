@@ -1,4 +1,4 @@
-# Web Inventory PT Tigaraksa Satria (Metronic 7 + Laravel 7)
+
 
 ### Introduction
 
@@ -53,7 +53,3 @@ testestes
 Production - Batch 2 :
 production.batch2@tes.tes
 testestes
-
-### Copyright
-
-PT Macan Teknologi Asia
